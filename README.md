@@ -7,7 +7,5 @@
 1. ITEM1
 2. ITEM2
 3. ITEM3
-4. item4
-5. item5
 
 ___SAMPLE TEXT___
